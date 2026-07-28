@@ -1,4 +1,4 @@
-<img width="1380" height="826" alt="image" src="https://github.com/user-attachments/assets/5619196f-7cce-42e8-b44e-efd617b0f9e1" /># Superstore-Sales-Dashboard
+Superstore-Sales-Dashboard
 An interactive Tableau dashboard created using the Sample Superstore dataset to analyze sales, profit, customer segments, and product performance.
 # Superstore Sales Dashboard
 
