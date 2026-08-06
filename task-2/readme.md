@@ -61,5 +61,6 @@ Department of Computer Science and Engineering (Data Science)
 Dayananda Sagar Academy of Technology and Management
 
 ---
+*Registration Number:** INBT021543
 
-**Internship:** AI & Machine Learning Internship – iNeuBytes
+**Internship:** Data Science Internship – iNeuBytes
